@@ -17,9 +17,9 @@ This is a Django-based web application that allows users to upload Excel or CSV 
 - Openpyxl
 
 ### Usage
-Upload a file: Go to the upload page, choose an Excel or CSV file, and click "Upload".
-View data: After uploading, the data will be displayed in a tabular format on the success page.
+- Upload a file: Go to the upload page, choose an Excel or CSV file, and click "Upload".
+- View data: After uploading, the data will be displayed in a tabular format on the success page.
 
 ### Acknowledgments
-Django Documentation
-Pandas Documentation
+- Django Documentation
+- Pandas Documentation
