@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Upload Success</title>
+    {% load static %}
+    <link rel="stylesheet" type="text/css" href="{% static 'styles.css' %}">
+</head>
+<body>
+    <div class="container">
+        <h1>Upload Successful</h1>
+        <h2>Data</h2>
+        <div>{{ data|safe }}</div>
+    </div>
+</body>
+</html>
